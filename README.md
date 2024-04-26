@@ -11,6 +11,15 @@ iOS Project implemented with Clean Layered Architecture and MVVM. (Can be used a
 [![Xcode](https://img.shields.io/badge/macOS-15.0-blue.svg)](https://developer.apple.com/macOS)
 [![MIT](https://img.shields.io/badge/licenses-MIT-red.svg)](https://opensource.org/licenses/MIT)
 
+## To execute the project
+
+We first compile the three modules:
+- Data
+- Domain
+- Presentation
+
+After that we can run the RandomUser application
+
 ## The Clean Architecture
 
 This sample project is inspired on [The Clean Architecture](https://8thlight.com/blog/uncle-bob/2012/08/13/the-clean-architecture.html) by Uncle Bob.
